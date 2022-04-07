@@ -1,0 +1,11 @@
+:root {
+    --sgreen: #2e8b57;
+    --cgrey: #8da7be;
+    --rblack: #272838;
+    --mmoss: #d4c685;
+    --mmint: #b5fed9;
+}
+
+h1{
+    color: var(--sgreen)
+}
