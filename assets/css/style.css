@@ -5,7 +5,10 @@
     --mmoss: #d4c685;
     --mmint: #b5fed9;
 }
+body{
+    background-color: var(--rblack);
+}
 
-h1{
-    color: var(--sgreen)
+#myPhoto{
+    max-height: 400px;
 }
