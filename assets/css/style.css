@@ -12,3 +12,18 @@ body{
 #myPhoto{
     max-height: 400px;
 }
+
+#hero-image {
+    background-image: url("../../assets/images/pexels-antonio-batinić-4164418.jpg");
+    background-color: var(--rblack);
+    height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-text{
+    text-align: center;
+    color: var(--mmint);
+    font-size: 3rem;
+}
