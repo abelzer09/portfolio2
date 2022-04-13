@@ -6,7 +6,7 @@
     --mmint: #b5fed9;
 }
 body{
-    background-color: var(--rblack);
+    background-color: var(--cgrey);
 }
 
 #myPhoto{
@@ -28,6 +28,39 @@ body{
     font-size: 3rem;
 }
 
-/* #cocktail{
-    height: 300px;
-} */
+.myCards {
+    background-color: var(--rblack);
+    color: var(--mmint);
+}
+
+.madeFt {
+    text-align: center;
+    color: var(--rblack);
+    margin-block-start: 10px;
+}
+
+.cardFt {
+    background-color: var(--sgreen);
+}
+
+.cardFt a {
+    color: var(--mmoss);
+    text-decoration: none;
+}
+
+h5 {
+    font-size:2.5rem;
+    border-bottom: 2px solid var(--mmoss);
+    color: var(--sgreen);
+    max-width: fit-content;
+}
+
+.navEl {
+    background-color: var(--rblack);
+    color: var(--mmint);
+}
+
+.navEl a {
+    color: var(--mmint);
+    text-decoration: none;
+}
